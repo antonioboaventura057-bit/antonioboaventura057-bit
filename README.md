@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seja bem-vindo!  👋
 
 <!--
 **antonioboaventura057-bit/antonioboaventura057-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
