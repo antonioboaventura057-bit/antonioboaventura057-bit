@@ -1,5 +1,5 @@
 ## Antônio Augusto Boaventura Mariano
-## Seja bem-vindo!  👋
+## Seja Bem-Vindo!  👋
 
 <!--
 **antonioboaventura057-bit/antonioboaventura057-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
