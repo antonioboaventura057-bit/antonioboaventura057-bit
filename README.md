@@ -4,11 +4,11 @@
 
 Sou entusiasta de Tecnologia da Informação 🖥 e aluno do Instituto Federal de São João da Boa Vista/SP.\
 Tenho 25 anos e moro em São João da Boa Vista/SP.\
-
-Contatos: 
-  -> Celular: (19) 97151-1714\
-  -> E-mail: antonioboaventura057@gmail.com\
-  -> LinkedIn: 
+\
+Contatos:   
+-> Celular: (19) 97151-1714\
+-> E-mail: antonioboaventura057@gmail.com\
+-> LinkedIn: in/antônio-mariano-3042a9377
 
 <!--
 **antonioboaventura057-bit/antonioboaventura057-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
