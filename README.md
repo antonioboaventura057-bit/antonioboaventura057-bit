@@ -1,5 +1,8 @@
 ## Antônio Augusto Boaventura Mariano
-## Seja Bem-Vindo!  👋
+## Seja bem-vindo ao meu perfil do GitHub 👋
+## Prazer em conhecê-lo 😊
+
+Sou entusiasta de TI e estudante do Instituto Federal de São João da Boa Vista/SP. Contato: (19) 97151-1714.Seja Bem-Vindo!  
 
 <!--
 **antonioboaventura057-bit/antonioboaventura057-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
